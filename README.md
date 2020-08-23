@@ -19,10 +19,10 @@
 
 ### Languages:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][https://developer.mozilla.org/en-US/docs/Web/CSS]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][https://developer.mozilla.org/en-US/docs/Web/JavaScript]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][https://git-scm.com/doc]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
 <br />
 <br />
@@ -32,3 +32,7 @@
 [Smart Mirror]: https://github.com/terminalPoltergeist/didactic-parakeet
 [instagram]: https://www.instagram.com/jacknemitz/
 [twitter]: https://twitter.com/nemitz_jack
+[html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[git]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
