@@ -45,11 +45,11 @@
 
 ---
 
-[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats
+[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)]
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<terminalPoltergeist>" />
+[! [Jack's Top Languages](https://github-readme-stats.vercel.app/api/<top-langs>/?username=<terminalPoltergeist)]
 
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
