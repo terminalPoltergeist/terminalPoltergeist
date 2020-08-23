@@ -26,8 +26,7 @@
 
 <br />
 <br />
-<br />
-
+### ---------------------------
 [![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats)
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
