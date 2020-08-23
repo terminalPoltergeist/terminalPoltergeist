@@ -27,6 +27,7 @@
 <br />
 <br />
 
+[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats)
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
 [Smart Mirror]: https://github.com/terminalPoltergeist/didactic-parakeet
