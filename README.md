@@ -1,6 +1,6 @@
-### Hello! I'm Jack - aka [terminalPoltergeist]
+## Hello! I'm Jack - aka [terminalPoltergeist]
 
-## I am a computer science student.
+### I am a computer science student.
 - I'm currently working on a web-based [Smart Mirror]
 
 
