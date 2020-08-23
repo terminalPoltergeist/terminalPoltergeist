@@ -52,6 +52,7 @@
 [Smart Mirror]: https://github.com/terminalPoltergeist/didactic-parakeet
 [instagram]: https://www.instagram.com/jacknemitz/
 [twitter]: https://twitter.com/nemitz_jack
+[linkedin]: https://www.linkedin.com/in/jack-nemitz-9095331b5/
 [html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
