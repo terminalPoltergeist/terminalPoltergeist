@@ -45,14 +45,10 @@
 
 ---
 
-![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)
+![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist&theme="vue")
 
 
-[![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats)
-
-<div> href="https://github.com/terminalPoltergeist/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terminalPoltergeist&repo=github-readme-stats" />
-</div>
+[![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist&theme="vue")](https://github.com/terminalPoltergeist/github-readme-stats)
 
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
