@@ -7,9 +7,6 @@
 - My 2020 goals: Learn new languages, and work on personal projects
 - Hobbies: Playing guitar, running, learning about tech
 
-
-<br />
-
 ---
 
 ### Connect with me:
