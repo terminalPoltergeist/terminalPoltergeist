@@ -49,7 +49,7 @@
 
 <br />
 
-[! [Jack's Top Languages](https://github-readme-stats.vercel.app/api/<top-langs>/?username=<terminalPoltergeist)]
+[! [Jack's Top Languages](https://github-readme-stats.vercel.app/api/<top-langs>/?username=<terminalPoltergeist)
 
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
