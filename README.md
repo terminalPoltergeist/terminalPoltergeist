@@ -26,9 +26,9 @@
 
 <br />
 <br />
+<p>&nbsp;  </p>
 
-
-<img align="left alt="Jack's Github Stats" src="https://github-readme-stats.vercel.app/api?username=terminalPoltergeist&show_icons="true"&hide_border="true" />
+[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats)
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
 [Smart Mirror]: https://github.com/terminalPoltergeist/didactic-parakeet
