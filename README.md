@@ -33,6 +33,7 @@
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
+
 ---
 
 ### Tools:
@@ -53,3 +54,10 @@
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [git]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[github]: https://github.com
+[terminal]: https://github.com/topics/terminal
+[sublime]: https://www.sublimetext.com
+[brackets]: http://brackets.io
+[xcode]: https://apps.apple.com/us/app/xcode/id497799835?mt=12
+[xd]: https://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=EAIaIQobChMIlazqnumx6wIVQgnnCh03DgKcEAAYASAAEgKVnvD_BwE:G:s&s_kwcid=AL!3085!3!315233774139!e!!g!!adobe%20xd!1641846436!65452675151
+
