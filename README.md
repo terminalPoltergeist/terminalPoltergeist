@@ -49,8 +49,7 @@
 
 <br />
 
-[![Jack's Top Languages](https://github-readme-stats.vercel.app/api/<top-langs>/?username=<terminalPoltergeist)]
-
+[![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats)
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
 [Smart Mirror]: https://github.com/terminalPoltergeist/didactic-parakeet
