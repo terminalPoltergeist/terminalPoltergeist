@@ -50,9 +50,9 @@
 
 [![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats)
 
-<a href="https://github.com/terminalPoltergeist/github-readme-stats">
+<div> href="https://github.com/terminalPoltergeist/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terminalPoltergeist&repo=github-readme-stats" />
-</a>
+</div>
 
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
