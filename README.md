@@ -21,6 +21,7 @@
 
 ### Languages:
 
+[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
@@ -54,6 +55,7 @@
 [instagram]: https://www.instagram.com/jacknemitz/
 [twitter]: https://twitter.com/nemitz_jack
 [linkedin]: https://www.linkedin.com/in/jack-nemitz-9095331b5/
+[python]: https://www.python.org
 [html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
