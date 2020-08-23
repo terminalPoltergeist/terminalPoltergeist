@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Jack Nemitz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Jack Nemitz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jack Nemitz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jack Nemitz | Instagram" width="22px" src="https://static01.nyt.com/images/2016/05/11/us/12xp-instagram/12xp-instagram-superJumbo.jpg" />][instagram]
+[<img align="left" alt="Jack Nemitz | Twitter" width="22px" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" />][twitter]
+[<img align="left" alt="Jack Nemitz | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
 
