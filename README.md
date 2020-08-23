@@ -7,11 +7,6 @@
 - My 2020 goals: Learn new languages, and work on personal projects
 - Hobbies: Playing guitar, running, learning about tech
 
----
-
-### What I'm Listening To 🎧
-
-
 
 <br />
 
@@ -50,7 +45,12 @@
 
 ---
 
-[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats)
+[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats
+
+<br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<terminalPoltergeist>" />
+
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
 [Smart Mirror]: https://github.com/terminalPoltergeist/didactic-parakeet
@@ -66,4 +66,5 @@
 [brackets]: http://brackets.io
 [xcode]: https://apps.apple.com/us/app/xcode/id497799835?mt=12
 [xd]: https://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=EAIaIQobChMIlazqnumx6wIVQgnnCh03DgKcEAAYASAAEgKVnvD_BwE:G:s&s_kwcid=AL!3085!3!315233774139!e!!g!!adobe%20xd!1641846436!65452675151
+
 
