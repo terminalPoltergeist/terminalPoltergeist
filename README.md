@@ -7,7 +7,17 @@
 - My 2020 goals: Learn new languages, and work on personal projects
 - Hobbies: Playing guitar, running, learning about tech
 
+<br />
+
+---
+
 ### What I'm Listening To 🎧
+
+
+
+<br />
+
+---
 
 ### Connect with me:
 
@@ -16,6 +26,8 @@
 [<img align="left" alt="Jack Nemitz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+---
 
 ### Languages:
 
