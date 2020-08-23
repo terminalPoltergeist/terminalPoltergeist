@@ -46,6 +46,8 @@
 [<img align="left" alt="Xcode" width="32px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />][xcode]
 [<img align="left" alt="XD" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJtMF7iX83yyqnbr5bAkV2QpXtSEWn4F3PGw&usqp=CAU" />][xd]
 
+<br />
+
 ---
 
 [![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats)
