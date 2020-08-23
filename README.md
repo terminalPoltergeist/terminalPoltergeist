@@ -45,9 +45,8 @@
 
 ---
 
-[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)]
+![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)
 
-<br />
 
 [![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats)
 
