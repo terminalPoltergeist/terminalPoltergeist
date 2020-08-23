@@ -45,15 +45,15 @@
 
 ---
 
-<!---![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)
-[![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats) --->
+![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist)
+
+
+[![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist)](https://github.com/terminalPoltergeist/github-readme-stats)
 
 <a href="https://github.com/terminalPoltergeist/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terminalPoltergeist&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/terminalPoltergeist/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terminalPoltergeist&repo=convoychat" />
-</a>
+
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
 [Smart Mirror]: https://github.com/terminalPoltergeist/didactic-parakeet
