@@ -2,7 +2,7 @@
 
 ### I am a computer science student.
 - ✍️ I'm currently working on a web-based [Smart Mirror].
-- 🤓 I'm currently learning HTML, CSS, JS, and MD.
+- 🤓 I'm currently learning HTML, CSS, JS.
 - 👀 I'm looking for resources and other programmers to learn from.
 - 🎉 My 2020 goals: Learn new languages, and work on personal projects.
 - 🎸 Hobbies: Playing guitar, running, learning about tech.
