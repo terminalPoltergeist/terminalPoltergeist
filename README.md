@@ -1,8 +1,8 @@
-## Hello! I'm Jack - aka [terminalPoltergeist]
+## Hello! I'm Jack - aka the[terminalPoltergeist]
 
 ### I am a computer science student.
 - ✍️ I'm currently working on a web-based [Smart Mirror].
-- 🤓 I'm currently learning HTML, CSS, JS, and MD.
+- 🤓 I'm currently learning HTML, CSS, JS.
 - 👀 I'm looking for resources and other programmers to learn from.
 - 🎉 My 2020 goals: Learn new languages, and work on personal projects.
 - 🎸 Hobbies: Playing guitar, running, learning about tech.
@@ -61,7 +61,7 @@
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [git]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [github]: https://github.com
-[terminal]: https://github.com/topics/terminal
+[terminal]: https://www.gnu.org/software/bash/
 [sublime]: https://www.sublimetext.com
 [brackets]: http://brackets.io
 [xcode]: https://apps.apple.com/us/app/xcode/id497799835?mt=12
