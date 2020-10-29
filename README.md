@@ -1,4 +1,4 @@
-## Hello! I'm Jack - aka the[terminalPoltergeist]
+## Hello! I'm Jack - aka [terminalPoltergeist]
 
 ### I am a computer science student.
 - ✍️ I'm currently working on an Electron based [Smart Mirror].
