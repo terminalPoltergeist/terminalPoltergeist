@@ -1,10 +1,10 @@
 ## Hello! I'm Jack - aka [terminalPoltergeist]
 
 ### I am a computer science student.
-- ✍️ I'm currently working on an Electron based [Smart Mirror].
-- 🤓 I'm currently learning HTML, CSS, JS, Electron, Node.
+- ✍️ I'm currently working on a [Twitter Bot] and an Electron based [Smart Mirror].
+- 🤓 I'm currently learning Python and Web-dev.
 - 👀 I'm looking for resources and other programmers to learn from.
-- 🎉 My 2020 goals: Learn new languages, and work on personal projects.
+- 🎉 My 2021 goals: Become fluent in Python, and work on personal projects.
 - 🎸 Hobbies: Playing guitar, running, learning about tech.
 
 ---
@@ -51,6 +51,7 @@
 
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
+[Twitter Bot]: https://github.com/terminalPoltergeist/goldy_got_covid
 [Smart Mirror]: https://github.com/terminalPoltergeist/didactic-parakeet
 [instagram]: https://www.instagram.com/jacknemitz/
 [twitter]: https://twitter.com/nemitz_jack
