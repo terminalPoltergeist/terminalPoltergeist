@@ -5,7 +5,7 @@
 - 🤓 I'm currently learning Python and Web-dev.
 - 👀 I'm looking for resources and other programmers to learn from.
 - 🎉 My 2021 goals: Become fluent in Python, and work on personal projects.
-- 🎸 Hobbies: Playing guitar, running, learning about tech.
+- 🎸 Hobbies: Playing guitar, running, coding (of course).
 
 ---
 
