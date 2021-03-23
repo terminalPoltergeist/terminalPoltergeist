@@ -48,7 +48,7 @@
 
 
 [![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist&theme="vue")](https://github.com/terminalPoltergeist/github-readme-stats)
-
+[![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist&layout=compact)](https://github.com/terminalPoltergeist/github-readme-stats)
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
 [Twitter Bot]: https://github.com/terminalPoltergeist/goldy_got_covid
