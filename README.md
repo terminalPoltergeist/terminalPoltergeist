@@ -46,8 +46,6 @@
 
 ![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist&theme="vue")
 
-
-[![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist&theme="vue")](https://github.com/terminalPoltergeist/github-readme-stats)
 [![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist&layout=compact)](https://github.com/terminalPoltergeist/github-readme-stats)
 
 [terminalPoltergeist]: https://github.com/terminalPoltergeist
