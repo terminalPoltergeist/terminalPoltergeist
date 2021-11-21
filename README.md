@@ -36,6 +36,7 @@
 
 [<img align="left" alt="Github" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="IntelliJ" width="32px" src="https://avatars.githubusercontent.com/u/49945210?v=4" />][int]
 [<img align="left" alt="Sublime" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][sublime]
 [<img align="left" alt="Brackets" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/220px-Brackets_Icon.svg.png" />][brackets]
 [<img align="left" alt="Xcode" width="32px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />][xcode]
@@ -60,7 +61,7 @@
 [git]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [github]: https://github.com
 [terminal]: https://www.gnu.org/software/bash/
-[intellij]: https://www.jetbrains.com/idea/
+[int]: https://www.jetbrains.com/idea/
 [sublime]: https://www.sublimetext.com
 [brackets]: http://brackets.io
 [xcode]: https://apps.apple.com/us/app/xcode/id497799835?mt=12
