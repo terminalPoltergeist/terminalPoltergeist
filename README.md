@@ -40,6 +40,11 @@
 [<img align="left" alt="Sublime" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][sublime]
 [<img align="left" alt="Brackets" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/220px-Brackets_Icon.svg.png" />][brackets]
 [<img align="left" alt="Xcode" width="32px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />][xcode]
+[<img align="left" alt="Vim" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
+[<img align="left" alt="NeoVim" width="32px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />][nvim]
+
+
+
 
 <br />
 
@@ -65,4 +70,6 @@
 [sublime]: https://www.sublimetext.com
 [brackets]: http://brackets.io
 [xcode]: https://apps.apple.com/us/app/xcode/id497799835?mt=12
+[vim]: https://github.com/topics/vim
+[nvim]: https://github.com/topics/neovim
 
