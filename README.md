@@ -4,7 +4,7 @@
 - ✍️ I'm currently working on my personal website and my B.S. in Computer Science.
 - 🤓 I'm currently learning Java, Front-end development, and algorithms.
 - 👀 I'm looking for resources and other programmers to learn from.
-- 🎉 My 2021 goals: Get a computer science internship and start a big project.
+- 🎉 My 2022 goals: Get a computer science internship and start a big project.
 - 🎸 Hobbies: Playing guitar, running, coding (of course).
 
 ---
