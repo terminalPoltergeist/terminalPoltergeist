@@ -4,8 +4,8 @@
 - ✍️ I'm currently working on my personal website and my B.S. in Computer Science.
 - 🤫 Also currently working on a secret, soon-to-be open source project.
 - 🤓 I'm currently learning C, machine-architecture, and OCaml.
--  👀 I'm currently looking for internships or jobs opportunities.
-- 🎉 My2022 goals: Get a computer science internship and start a big project.
+- 👀 I'm currently looking for internships or jobs opportunities.
+- 🎉 My 2022 goals: Get a computer science internship and start a big project.
 - 🎸 Hobbies: Playing guitar, running, coding (of course).
 
 ---
