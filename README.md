@@ -5,7 +5,7 @@
 - 🤫 Also currently working on a secret, soon-to-be open source project.
 - 🤓 I'm currently learning C, machine-architecture, and OCaml.
 -  👀 I'm currently looking for internships or jobs opportunities.
-- 🎉 My 202 goals: Get a computer science internship and start a big project.
+- 🎉 My 222 goals: Get a computer science internship and start a big project.
 - 🎸 Hobbies: Playing guitar, running, coding (of course).
 
 ---
