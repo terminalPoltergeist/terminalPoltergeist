@@ -1,10 +1,17 @@
-## Hello! I'm Jack - aka [terminalPoltergeist]
+ 
 
 ### I am a computer science student.
 - ✍️ I'm currently working on my personal website and my B.S. in Computer Science.
+<<<<<<< HEAD
 - 🤓 I'm currently learning Java, Front-end development, and algorithms.
 - 👀 I'm looking for resources and other programmers to learn from.
 - 🎉 My 2022 goals: Get a computer science internship and start a big project.
+=======
+- 🤫Also currently working on a secret, soon-to-be open source project.
+- 🤓 I'm currently learning C, machine-architecture, and OCaml.
+- 👀I'm currently looking for internships or jobs opportunities.
+- 🎉 My 2021 goals: Get a computer science internship and start a big project.
+>>>>>>> 519e693 (auto commit)
 - 🎸 Hobbies: Playing guitar, running, coding (of course).
 
 ---
