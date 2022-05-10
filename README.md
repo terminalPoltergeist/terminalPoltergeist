@@ -5,8 +5,8 @@
 - 🤫 Also currently working on a secret, soon-to-be [open source project](https://github.com/terminalPoltergeist/commitment).
 - 🤓 I'm currently learning C, machine-architecture, and OCaml.
 - 👀 I'm currently looking for internships or jobs opportunities.
-- 🎉 My 2022 goals: Get a computer science internship and start a big project.
-- 🎸 Hobbies: Playing guitar, running, coding (of course).
+- 🎉 My 2022 goals: Get an internship and start a big project.
+- 🎸 Hobbies: Playing guitar, cooking, coding (of course).
 
 ---
 
@@ -23,6 +23,8 @@
 ### Languages:
 
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="C" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />]
+[<img align="left" alt="OCaml" width="32px" src="https://andrewshitov.com/wp-content/uploads/2019/12/OCaml.png" />]
 [<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
@@ -35,14 +37,14 @@
 
 ### Tools:
 
+[<img align="left" alt="Vim" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
+[<img align="left" alt="NeoVim" width="32px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />][nvim]
 [<img align="left" alt="Github" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="IntelliJ" width="32px" src="https://avatars.githubusercontent.com/u/49945210?v=4" />][int]
 [<img align="left" alt="Sublime" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][sublime]
 [<img align="left" alt="Brackets" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/220px-Brackets_Icon.svg.png" />][brackets]
 [<img align="left" alt="Xcode" width="32px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />][xcode]
-[<img align="left" alt="Vim" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
-[<img align="left" alt="NeoVim" width="32px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />][nvim]
 
 
 
