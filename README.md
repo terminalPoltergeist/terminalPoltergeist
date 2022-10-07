@@ -1,11 +1,11 @@
  
 
 ### I am a computer science student.
-- ✍️ I'm currently working on my personal website and my B.S. in Computer Science.
-- 🤫 Also currently working on a secret, soon-to-be [open source project](https://github.com/terminalPoltergeist/commitment).
-- 🤓 I'm currently learning C, machine-architecture, and OCaml.
+- ✍️ I'm currently working on a [Spicetify Extention](https://github.com/terminalPoltergeist/Spicetify-turnTable) and my B.S. in Computer Science.
+<!-- - 🤫 Also currently working on a secret, soon-to-be [open source project](https://github.com/terminalPoltergeist/commitment). -->
+- 🤓 I'm currently learning program design, web-programming w/ Node, and C++.
 - 👀 I'm currently looking for internships or jobs opportunities.
-- 🎉 My 2022 goals: Get an internship and start a big project.
+<!-- - 🎉 My 2022 goals: Get an internship and start a big project. -->
 - 🎸 Hobbies: Playing guitar, cooking, coding (of course).
 
 ---
@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Jack Nemitz | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" />][instagram]
 [<img align="left" alt="Jack Nemitz | Twitter" width="22px" src="https://picklefeetgames.com/wp-content/uploads/2018/12/twitter-app-icon-transparent-17-2-300x300.png" />][twitter]
-[<img align="left" alt="Jack Nemitz | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+<!-- [<img align="left" alt="Jack Nemitz | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin] -->
 
 <br />
 
@@ -42,9 +42,9 @@
 [<img align="left" alt="Github" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="IntelliJ" width="32px" src="https://avatars.githubusercontent.com/u/49945210?v=4" />][int]
-[<img align="left" alt="Sublime" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][sublime]
-[<img align="left" alt="Brackets" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/220px-Brackets_Icon.svg.png" />][brackets]
-[<img align="left" alt="Xcode" width="32px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />][xcode]
+<!-- [<img align="left" alt="Sublime" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][sublime] -->
+<!-- [<img align="left" alt="Brackets" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/220px-Brackets_Icon.svg.png" />][brackets] -->
+<!-- [<img align="left" alt="Xcode" width="32px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />][xcode] -->
 
 
 
