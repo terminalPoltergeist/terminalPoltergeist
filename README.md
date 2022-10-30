@@ -1,15 +1,25 @@
- 
-
-### I am a computer science student.
-- ✍️ I'm currently working on a [Spicetify Extention](https://github.com/terminalPoltergeist/Spicetify-turnTable) and my B.S. in Computer Science.
-<!-- - 🤫 Also currently working on a secret, soon-to-be [open source project](https://github.com/terminalPoltergeist/commitment). -->
-- 🤓 I'm currently learning program design, web-programming w/ Node, and C++.
-- 👀 I'm currently looking for internships or jobs opportunities.
-<!-- - 🎉 My 2022 goals: Get an internship and start a big project. -->
-- 🎸 Hobbies: Playing guitar, cooking, coding (of course).
+### Hello! I'm Jack 
+*I also go by terminalPoltergeist in some corners of the internet*
 
 ---
 
+##### About Me
+- I'm on my third year of my B.S. in Computer Science
+- I'm currently learning C++, web development w/ node, and algorithms
+- I'm looking for internships or jobs opportunities.
+- In my personal capacity I enjoy cooking, playing guitar, and working on side projects
+
+---
+
+##### My Tools
+<p>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat-square" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-white?logo=python&style=flat-square"/>
+    <img alt="Python" src="https://img.shields.io/badge/-C lang-black?logo=c&style=flat-square"/>
+    <img alt="Python" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat-square"/>
+</p>
+
+##### This week I spent my time on...
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
