@@ -13,10 +13,30 @@
 
 ##### My Tools
 <p>
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat-square" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-white?logo=python&style=flat-square"/>
-    <img alt="Python" src="https://img.shields.io/badge/-C lang-black?logo=c&style=flat-square"/>
-    <img alt="Python" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat-square"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/-C lang-A8B9CC?logo=c&style=flat-square&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat-square&logoColor=white"/>
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=flat-square&logoColor=white"/>
+    <img alt="git" src="https://img.shields.io/badge/-git-F05032?logo=git&style=flat-square&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square&logoColor=white"/>
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&style=flat-square&logoColor=white"/>
+    <img alt="HomeBrew" src="https://img.shields.io/badge/-HomeBrew-FBB040?logo=homebrew&style=flat-square&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat-square&logoColor=white"/>
+    <img alt="Jeep" src="https://img.shields.io/badge/-Jeep-000000?logo=jeep&style=flat-square&logoColor=white"/>
+    <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=flat-square&logoColor=white"/>
+    <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&style=flat-square&logoColor=white"/>
+    <img alt="macOs" src="https://img.shields.io/badge/-macOS-000000?logo=macos&style=flat-square&logoColor=white"/>
+    <img alt="neoVim" src="https://img.shields.io/badge/-neoVim-57A143?logo=neovim&style=flat-square&logoColor=white"/>
+    <img alt="Node" src="https://img.shields.io/badge/-Node-339933?logo=node.js&style=flat-square&logoColor=white"/>
+    <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&style=flat-square&logoColor=white"/>
+    <img alt="Ocaml" src="https://img.shields.io/badge/-Ocaml-EC6813?logo=ocaml&style=flat-square&logoColor=white"/>
+    <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&style=flat-square&logoColor=white"/>
+    <img alt="Tmux" src="https://img.shields.io/badge/-Tmux-1BB91F?logo=tmux&style=flat-square&logoColor=white"/>
+    <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=flat-square&logoColor=white"/>
+    <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?logo=vim&style=flat-square&logoColor=white"/>
+    <img alt="WakaTime" src="https://img.shields.io/badge/-WakaTime-000000?logo=wakatime&style=flat-square&logoColor=white"/>
+    <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&style=flat-square&logoColor=white"/>
 </p>
 
 ##### This week I spent my time on...
