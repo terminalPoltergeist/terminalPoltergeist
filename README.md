@@ -45,7 +45,7 @@
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false&background_color=FFFFFFFF)](https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&redirect=true)
 
 <br />
 
