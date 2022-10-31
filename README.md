@@ -42,6 +42,15 @@
 ##### This week I spent my time on...
 <!--START_SECTION:waka-->
 
+```text
+C++           5 hrs 35 mins   █████████▓░░░░░░░░░░░░░░░   38.54 %
+JavaScript    4 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.37 %
+HTML          1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+C             44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Python        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Vim Script    24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+```
+
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to
