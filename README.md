@@ -43,10 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Pug          35 mins         ███████████▒░░░░░░░░░░░░░   45.10 %
-JavaScript   29 mins         █████████▒░░░░░░░░░░░░░░░   36.99 %
-Markdown     10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
-JSON         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
