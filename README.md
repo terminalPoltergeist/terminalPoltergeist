@@ -43,7 +43,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Vim Script   31 mins         ██████████████░░░░░░░░░░░   56.19 %
+Markdown     23 mins         ██████████▓░░░░░░░░░░░░░░   42.06 %
+TOML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+sh           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
