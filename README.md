@@ -4,7 +4,7 @@
 ---
 
 ##### About Me
-- I'm on my third year of my B.S. in Computer Science
+- I'm in my third year of my B.S. in Computer Science
 - I'm currently learning C++, web development w/ node, and algorithms
 - I'm looking for internships or jobs opportunities.
 - In my personal capacity I enjoy cooking, playing guitar, and working on side projects
@@ -14,6 +14,10 @@
 ##### My Tools
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"/>
+    <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black"/>
+    <img alt="Pug" src="https://img.shields.io/badge/Pug-FFF?style=flat-square&logo=pug&logoColor=A86454"/>
+    <ing alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square&logoColor=white"/>
     <img alt="C" src="https://img.shields.io/badge/-C lang-A8B9CC?logo=c&style=flat-square&logoColor=white"/>
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat-square&logoColor=white"/>
@@ -55,31 +59,4 @@ YAML         26 mins         ▒░░░░░░░░░░░░░░░░
 
 ##### What I'm Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false&background_color=121212FF)](https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&redirect=true)
-
-<br />
-
----
-
-![Jack's github stats](https://github-readme-stats.vercel.app/api?username=terminalPoltergeist&theme="vue")
-
-[![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalPoltergeist&hide=shell)](https://github.com/terminalPoltergeist/github-readme-stats)
-
-[terminalPoltergeist]: https://github.com/terminalPoltergeist
-[instagram]: https://www.instagram.com/jacknemitz/
-[twitter]: https://twitter.com/nemitz_jack
-[linkedin]: https://www.linkedin.com/in/jack-nemitz-9095331b5/
-[python]: https://www.python.org
-[java]: https://en.wikipedia.org/wiki/Java_(programming_language)
-[html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[git]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[github]: https://github.com
-[terminal]: https://www.gnu.org/software/bash/
-[int]: https://www.jetbrains.com/idea/
-[sublime]: https://www.sublimetext.com
-[brackets]: http://brackets.io
-[xcode]: https://apps.apple.com/us/app/xcode/id497799835?mt=12
-[vim]: https://github.com/topics/vim
-[nvim]: https://github.com/topics/neovim
 
