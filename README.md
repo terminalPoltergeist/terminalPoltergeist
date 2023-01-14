@@ -4,7 +4,7 @@
 ---
 
 ##### About Me
-- I'm in my third year of my B.S. in Computer Science
+- I'm on my third year of my B.S. in Computer Science
 - I'm currently learning C++, web development w/ node, and algorithms
 - I'm looking for internships or jobs opportunities.
 - In my personal capacity I enjoy cooking, playing guitar, and working on side projects
