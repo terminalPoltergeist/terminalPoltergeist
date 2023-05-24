@@ -1,6 +1,6 @@
 ```javascript
-# Hello! I'm Jack
-# I also go by terminalPoltergeist in some corners of the internet
+// Hello! I'm Jack
+// I also go by terminalPoltergeist in some corners of the internet
 
 var what_I'm_up_to = {
     school: "University of Minnesota",
