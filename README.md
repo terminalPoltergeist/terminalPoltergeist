@@ -3,7 +3,7 @@
 
 ---
 
-##### About Me
+##### What I'm up to...
 - I'm on my third year of my B.S. in Computer Science
 - I'm currently learning systems programming, networking, and database development
 - I'm currently working on the Windows and Linux Hosting teams in the Office of Information Technology at UMN
@@ -11,7 +11,7 @@
 
 ---
 
-##### My Tools
+##### My Tools...
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"/>
@@ -56,6 +56,6 @@ PowerShell   11 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-##### What I'm Listening to
+##### What I'm Listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false&background_color=121212FF)](https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&redirect=true)
 
