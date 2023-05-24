@@ -18,9 +18,9 @@ var frameworks = [Express, React, Node, Pug, jQuery]
 var tools = [webPack, git, GitHub, HomeBrew, neoVim, npm, Tmux, macOS, Ubuntu, Docker, Nginx]
 
 function find_me() {
-    website: "<a href="https://jacknemitz.com">jacknemitz.com</a>"
-    instagram: "<a href="https://www.instagram.com/jacknemitz/">jacknemitz</a>"
-    email: "<a href="mailto: jack.nemitz@yahoo.com">jack.nemitz@yahoo.com</a>"
+    website: "jacknemitz.com"
+    instagram: "jacknemitz"
+    email: "jack.nemitz@yahoo.com"
 }
 ```
 
