@@ -18,9 +18,11 @@ var frameworks = [Express, React, Node, Pug, jQuery]
 var tools = [webPack, git, GitHub, HomeBrew, neoVim, npm, Tmux, macOS, Ubuntu, Docker, Nginx]
 
 function find_me() {
-    website: "jacknemitz.com"
-    instagram: "jacknemitz"
-    email: "jack.nemitz@yahoo.com"
+    return {
+        website: "jacknemitz.com",
+        instagram: "jacknemitz",
+        email: "jack.nemitz@yahoo.com"
+    }
 }
 ```
 
