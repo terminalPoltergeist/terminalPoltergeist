@@ -1,4 +1,4 @@
-```c
+```javascript
 # Hello! I'm Jack
 # I also go by terminalPoltergeist in some corners of the internet
 
