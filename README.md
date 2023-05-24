@@ -70,14 +70,6 @@ Sunday                   175 commits         ████░░░░░░░�
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to...
-<svg width="100%">
-  <style>
-    img {
-      background-color: #4D859622;
-    }
-  </style>
-  <foreignObject x="0" y="0" width="40%" height="100%">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=false&background_color=CDCDCDFF">
-    </a>
-  </foreignObject>
-</svg>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&cover_image=true&show_offline=true&bar_color=53b14f&bar_color_cover=false&background_color=121212FF)](https://spotify-github-profile.vercel.app/api/view?uid=jack.nemitz&redirect=true)
+
