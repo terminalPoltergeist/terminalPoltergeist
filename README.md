@@ -21,7 +21,7 @@ function find_me() {
     return {
         website: "jacknemitz.com",
         instagram: "jacknemitz",
-        email: "jack.nemitz@yahoo.com"
+        email: "jack@jacknemitz.com"
     }
 }
 ```
