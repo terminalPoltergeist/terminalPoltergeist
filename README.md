@@ -22,7 +22,7 @@ function find_me() {
         website: "jacknemitz.com",
         instagram: "jacknemitz",
         twitter: "nemitz_jack",
-        email: "jack@jacknemitz.com"
+        email: "jack.nemitz@yahoo.com"
     }
 }
 ```
