@@ -1,8 +1,8 @@
-```javascript
+```typescript
 // Hello! I'm Jack
 // I also go by terminalPoltergeist in some corners of the internet
 
-var what_I'm_up_to = {
+interface what_I'm_up_to {
     school: "University of Minnesota",
     degree: "Computer Science B.S.",
     year: 4,
@@ -11,11 +11,11 @@ var what_I'm_up_to = {
     personal-interests: "cooking, playing guitar, side projects"
 }
 
-var languages = [JavaScript, Python, C, C++, CSS, Bash, HTML, VimScript]
+var languages = [Typescript, JavaScript, Python, C, C++, CSS, HTML, Bash, VimScript]
 
-var frameworks = [Express, React, Node, Pug, jQuery]
+var frameworks = [Next.js, React, Express, Node, Pug, jQuery]
 
-var tools = [webPack, git, GitHub, HomeBrew, neoVim, npm, Tmux, macOS, Ubuntu, Docker, Nginx]
+var tools = [webPack, git, GitHub, HomeBrew, neoVim, npm, Tmux, macOS, Ubuntu, Docker, Nginx, Cloudflare, DigitalOcean]
 
 function find_me() {
     return {
