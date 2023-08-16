@@ -6,7 +6,7 @@ interface what_I'm_up_to {
     school: "University of Minnesota",
     degree: "Computer Science B.S.",
     year: 4,
-    learning: "Next.js, React, Tailwind, Go",
+    learning: "Next.js, React, Tailwind, Ansible",
     work: "Hosting, Engineering, and Automation team for the Office of Information Technology at UMN",
     personal-interests: "cooking, playing guitar, side projects"
 }
@@ -15,7 +15,7 @@ var languages = [Typescript, JavaScript, Python, C, C++, CSS, HTML, Bash, VimScr
 
 var frameworks = [Next.js, React, Express, Node, Pug, jQuery]
 
-var tools = [webPack, git, GitHub, HomeBrew, neoVim, npm, Tmux, macOS, Ubuntu, Docker, Nginx, Cloudflare, DigitalOcean]
+var tools = [webPack, git, GitHub, HomeBrew, neoVim, npm, Tmux, macOS, Ubuntu, Docker, Nginx, Ansible, Cloudflare, DigitalOcean]
 
 function find_me() {
     return {
