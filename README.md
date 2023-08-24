@@ -15,14 +15,14 @@ var languages = [Typescript, JavaScript, Python, C, C++, CSS, HTML, Bash, VimScr
 
 var frameworks = [Next.js, React, Express, Node, Pug, jQuery]
 
-var tools = [webPack, git, GitHub, HomeBrew, neoVim, npm, Tmux, macOS, Ubuntu, Docker, Nginx, Ansible, Cloudflare, DigitalOcean]
+var tools = [webPack, git, GitHub, neoVim, npm, Tmux, macOS, Ubuntu, Nginx, Ansible, Cloudflare, DigitalOcean]
 
 function find_me() {
     return {
         website: "jacknemitz.com",
         instagram: "jacknemitz",
         twitter: "nemitz_jack",
-        email: "jack.nemitz@yahoo.com"
+        email: "hi@jacknemitz.com"
     }
 }
 ```
