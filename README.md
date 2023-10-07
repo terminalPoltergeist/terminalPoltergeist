@@ -9,8 +9,8 @@ interface what_I'm_up_to {
     learning: "Ansible, Azure automation, Go",
     work: "Hosting, Engineering, and Automation team for the Office of Information Technology at UMN",
     personal-interests: "cooking, playing guitar, coding small projects",
-    likes: "automation scripting, devops, technical writing, web development,
-            CLIs, sharing music with people, coffee",
+    likes: "automation scripting, devops, technical writing,
+            web development, CLIs, sharing music with people, coffee",
     dislikes: "politics, clutter, lack of communication, inactivity",
 }
 
