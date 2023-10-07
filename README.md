@@ -6,16 +6,21 @@ interface what_I'm_up_to {
     school: "University of Minnesota",
     degree: "Computer Science B.S.",
     year: 4,
-    learning: "Next.js, React, Tailwind, Ansible",
+    learning: "Ansible, Azure automation, Go",
     work: "Hosting, Engineering, and Automation team for the Office of Information Technology at UMN",
-    personal-interests: "cooking, playing guitar, side projects"
+    personal-interests: "cooking, playing guitar, coding small projects",
+    likes: "automation scripting, devops, technical writing, web development, CLIs, sharing music with people, coffee",
+    dislikes: "politics, clutter, lack of communication, inactivity",
 }
 
-var languages = [Typescript, JavaScript, Python, C, C++, CSS, HTML, Bash, VimScript]
+var languages = [Typescript, JavaScript, Python, Bash, Powershell, C, C++, HTML, CSS]
 
-var frameworks = [Next.js, React, Express, Node, Pug, jQuery]
+var frameworks = [Next.js, React, Express, Tailwind]
 
-var tools = [webPack, git, GitHub, neoVim, npm, Tmux, macOS, Ubuntu, Nginx, Ansible, Cloudflare, DigitalOcean]
+var tools = {
+    env: [neoVim, Tmux, macOS, Ubuntu, RedHat Enterprise Linux 9, Nginx, DigitalOcean, Cloudflare],
+    devops: [Azure, git, GitHub, GitHub Actions, Ansible],
+}
 
 function find_me() {
     return {
