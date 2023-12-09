@@ -11,7 +11,7 @@ interface what_I'm_up_to {
     personal-interests: "cooking, playing guitar, coding small projects",
     likes: "automation scripting, devops, technical writing,
             web development, CLIs, sharing music with people, coffee",
-    dislikes: "politics, clutter, lack of communication, inactivity",
+    dislikes: "politics, clutter, lack of communication, inactivity, Java",
 }
 
 var languages = [Typescript, JavaScript, Python, Bash, Powershell, C, C++, HTML, CSS]
