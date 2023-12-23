@@ -5,22 +5,20 @@
 interface what_I'm_up_to {
     school: "University of Minnesota",
     degree: "Computer Science B.S.",
-    year: 4,
     learning: "Ansible, Azure automation, Go",
     work: "Hosting, Engineering, and Automation team for the Office of Information Technology at UMN",
-    personal-interests: "cooking, playing guitar, coding small projects",
     likes: "automation scripting, devops, technical writing,
             web development, CLIs, sharing music with people, coffee",
     dislikes: "politics, clutter, lack of communication, inactivity, Java",
 }
 
-var languages = [Typescript, JavaScript, Python, Bash, Powershell, C, C++, HTML, CSS]
+var languages = [Bash, Powershell, Typescript, JavaScript, Python, C, C++]
 
-var frameworks = [Next.js, React, Express, Tailwind]
+var frameworks = [Next.js, React, Tailwind, Pester, Psake]
 
 var tools = {
     env: [neoVim, Tmux, macOS, Ubuntu, RedHat Enterprise Linux 9, Nginx, DigitalOcean, Cloudflare],
-    devops: [Azure, git, GitHub, GitHub Actions, Ansible],
+    devops: [Azure, git, GitHub Actions, Ansible],
 }
 
 function find_me() {
