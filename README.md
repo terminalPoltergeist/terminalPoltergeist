@@ -29,6 +29,8 @@ function find_me() {
         email: "hi@jacknemitz.com"
     }
 }
+
+var pubKey = "1C49 F42B 6AAC 7CEE B18D  EAF6 0EEB C943 1694 A88E"
 ```
 
 <!--START_SECTION:waka-->
