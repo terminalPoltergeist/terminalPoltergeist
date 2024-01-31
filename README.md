@@ -5,19 +5,19 @@
 interface what_I'm_up_to {
     school: "University of Minnesota",
     degree: "Computer Science B.S.",
-    learning: "Ansible, Azure automation, Go",
+    learning: "Ansible, Go, HTMX",
     work: "Hosting, Engineering, and Automation team for the Office of Information Technology at UMN",
     likes: "automation scripting, devops, technical writing,
-            web development, CLIs, sharing music with people, coffee",
+            alternative web-design, TUIs, sharing music with people, coffee",
     dislikes: "politics, clutter, lack of communication, inactivity, Java",
 }
 
-var languages = [Bash, Powershell, Typescript, JavaScript, Python, C, C++]
+var languages = [Go, Bash, Powershell, Typescript/JS, Python, C]
 
-var frameworks = [Next.js, React, Tailwind, Pester, Psake]
+var frameworks = [Tailwind, Pester, Psake, Next.js, React]
 
 var tools = {
-    env: [neoVim, Tmux, macOS, Ubuntu, RedHat Enterprise Linux 9, Nginx, DigitalOcean, Cloudflare],
+    env: [neoVim, Tmux, macOS, Ubuntu, RHEL 9, Nginx, DigitalOcean, Cloudflare],
     devops: [Azure, git, GitHub Actions, Ansible],
 }
 
