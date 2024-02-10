@@ -21,7 +21,6 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LANGUAGE: "True"
           SECTION_NAME: "This weeks stack..."
-          TIME_RANGE: "last_7_days"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
