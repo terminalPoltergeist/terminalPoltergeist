@@ -40,7 +40,6 @@ jobs:
       - uses: actions/checkout@v4
       - name: replace section
         run: |
-          ls -la
           file=$(<README.md)
           echo "${file//This Week I Spent My Time On/This week\'s stack...}" > README.md
           git config --global user.name "github-actions[bot]"
