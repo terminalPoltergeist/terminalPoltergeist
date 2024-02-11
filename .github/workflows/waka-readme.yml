@@ -39,17 +39,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: config
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      # - name: config
+      #   run: |
+      #     git config --global user.name "github-actions[bot]"
+      #     git config --global user.email "github-actions[bot]@users.noreply.github.com"
       - name: update
         run: |
           git pull
           file=$(<README.md)
           echo "${file//This Week I Spent My Time On/This week\'s stack..}" > README.md
-      # - name: push
-      #   run: |
-      #     git add .
-      #     git commit -am "dev stats update"
-      #     git push
+      - name: push
+        uses: actions-js/push@v1.4
+        with: ${{ secrets.GH_TOKEN }}
