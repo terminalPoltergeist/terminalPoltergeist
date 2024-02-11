@@ -47,6 +47,5 @@ jobs:
           git pull
           file=$(<README.md)
           echo "${file//This Week I Spent My Time On/This week\'s stack..}" > README.md
-      - name: push
       - uses: actions-js/push@v1.4
         with: ${{ secrets.GH_TOKEN }}
