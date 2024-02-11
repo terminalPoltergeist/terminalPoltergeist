@@ -40,10 +40,11 @@ jobs:
       - uses: actions/checkout@v4
       - name: replace section
         run: |
-          file=$(<README.md)
-          echo "${file//This Week I Spent My Time On/This week\'s stack...}" > README.md
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git pull
+          file=$(<README.md)
+          echo "${file//This Week I Spent My Time On/This week\'s stack...}" > README.md
+          git add .
           git commit -am "dev stats update"
           git push
