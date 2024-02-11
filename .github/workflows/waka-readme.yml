@@ -17,7 +17,7 @@ jobs:
           SECTION_NAME: "This week's stack..."
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
-          SHOW_PROFILE_VIEWS: "TRUE"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LANGUAGE: "True"
