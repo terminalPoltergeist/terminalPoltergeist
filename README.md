@@ -23,10 +23,10 @@ var tools = {
 
 function find_me() {
     return {
-        website: "jacknemitz.com",
+        website: "jnem.me",
         instagram: "jacknemitz",
         twitter: "@i_heart_vim",
-        email: "hi@jacknemitz.com"
+        email: "hi [at] jacknemitz [dot] com"
     }
 }
 
