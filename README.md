@@ -2,7 +2,7 @@
 // Hello! I'm Jack
 // I also go by terminalPoltergeist in some corners of the internet
 
-what_I'm_up_to interface {
+what_I'm_up_to := interface {
     school: "University of Minnesota",
     degree: "Computer Science B.S.",
     learning: "Ansible, Go, HTMX",
@@ -16,7 +16,7 @@ languages := {Go, Bash, Powershell, Typescript/JS, Python, C}
 
 frameworks := {Tailwind, Pester, Psake, Next.js}
 
-tools interface {
+tools := interface {
     env: {neoVim, Tmux, macOS, Ubuntu, RHEL 9, Nginx, DigitalOcean, Cloudflare},
     devops: {Azure, git, GitHub Actions, Ansible},
 }
