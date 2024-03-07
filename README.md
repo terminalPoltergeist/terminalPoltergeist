@@ -1,8 +1,8 @@
-```typescript
+```go
 // Hello! I'm Jack
 // I also go by terminalPoltergeist in some corners of the internet
 
-interface what_I'm_up_to {
+what_I'm_up_to interface {
     school: "University of Minnesota",
     degree: "Computer Science B.S.",
     learning: "Ansible, Go, HTMX",
@@ -12,16 +12,16 @@ interface what_I'm_up_to {
     dislikes: "politics, clutter, lack of communication, inactivity, Java",
 }
 
-var languages = [Go, Bash, Powershell, Typescript/JS, Python, C]
+languages := {Go, Bash, Powershell, Typescript/JS, Python, C}
 
-var frameworks = [Tailwind, Pester, Psake, Next.js, React]
+frameworks := {Tailwind, Pester, Psake, Next.js}
 
-var tools = {
-    env: [neoVim, Tmux, macOS, Ubuntu, RHEL 9, Nginx, DigitalOcean, Cloudflare],
-    devops: [Azure, git, GitHub Actions, Ansible],
+tools interface {
+    env: {neoVim, Tmux, macOS, Ubuntu, RHEL 9, Nginx, DigitalOcean, Cloudflare},
+    devops: {Azure, git, GitHub Actions, Ansible},
 }
 
-function find_me() {
+func find_me() {
     return {
         website: "jnem.me",
         instagram: "jacknemitz",
