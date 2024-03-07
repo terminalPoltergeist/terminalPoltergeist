@@ -7,7 +7,7 @@ what_I'm_up_to interface {
     degree: "Computer Science B.S.",
     learning: "Ansible, Go, HTMX",
     work: "Hosting, Engineering, and Automation team for the Office of Information Technology at UMN",
-    likes: "automation scripting, devops, technical writing,
+    likes: "automation scripting, devops, technical writing,\
             alternative web-design, TUIs, sharing music with people, coffee",
     dislikes: "politics, clutter, lack of communication, inactivity, Java",
 }
