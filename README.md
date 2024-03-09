@@ -2,7 +2,7 @@
 // Hello! I'm Jack
 // I also go by terminalPoltergeist in some corners of the internet
 
-what_I'm_up_to := interface {
+what_I'm_up_to := {
     school: "University of Minnesota",
     degree: "Computer Science B.S.",
     learning: "Ansible, Go, HTMX",
