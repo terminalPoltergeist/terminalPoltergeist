@@ -5,7 +5,7 @@
 what_I'm_up_to := {
     work: "Hybrid Cloud Admin - Cloud Engineer at the University of Minnesota",
     learning: "Ansible, Go, HTMX",
-    likes: "automation scripting, devops, technical writing,\
+    likes: "automation, devops, technical writing,\
             alternative web-design, TUIs, sharing music with people, coffee",
     dislikes: "politics, clutter, lack of communication, inactivity, Java",
 }
