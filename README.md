@@ -32,7 +32,7 @@ const pubKey = "1C49 F42B 6AAC 7CEE B18D  EAF6 0EEB C943 1694 A88E"
 ```
 
 <!--START_SECTION:waka-->
-📊 **This week's stack..** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -44,7 +44,7 @@ Docker                   55 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/03/2024 12:13:17 UTC
+ Last Updated on 31/03/2024 00:42:51 UTC
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to...
