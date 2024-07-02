@@ -4,19 +4,20 @@
 
 what_I'm_up_to := {
     work: "Hybrid Cloud Admin - Cloud Engineer at the University of Minnesota",
-    learning: "Ansible, Go, HTMX",
+    building: "Powershell modules",
+    learning: "Azure, Ansible, Go, HTMX",
     likes: "automation, devops, technical writing,\
             alternative web-design, TUIs,\
-            sharing music with people, coffee",
+            sharing music with people, coffee, well-documented apis",
     dislikes: "politics, clutter, lack of communication, inactivity, Java",
 }
 
 languages := {Go, Bash, Powershell, Typescript/JS, Python, C}
 
-frameworks := {BubbleTea, Tailwind, Pester, Psake, Next.js}
+frameworks := {BubbleTea, Tailwind, Pmirin, Pester, Psake, Lauger}
 
 tools := {
-    env: {neoVim, Tmux, macOS, Ubuntu, RHEL 9, Nginx, DigitalOcean, Cloudflare},
+    env: {neoVim, Tmux, Proxmox, Docker, macOS, Ubuntu, RHEL 9, Nginx, DigitalOcean, Cloudflare},
     devops: {Azure, git, GitHub Actions, Ansible},
 }
 
