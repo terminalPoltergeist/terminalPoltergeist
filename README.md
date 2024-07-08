@@ -14,7 +14,7 @@ what_I'm_up_to := {
 
 languages := {Go, Bash, Powershell, Typescript/JS, Python, C}
 
-frameworks := {BubbleTea, Tailwind, Pmirin, Pester, Psake, Lauger}
+frameworks := {BubbleTea, Tailwind, Pmirin, Pester, Psake, Auger}
 
 tools := {
     env: {neoVim, Tmux, Proxmox, Docker, macOS, Ubuntu, RHEL 9, Nginx, DigitalOcean, Cloudflare},
