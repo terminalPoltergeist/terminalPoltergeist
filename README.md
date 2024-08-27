@@ -51,4 +51,4 @@ JSON                     12 mins             █░░░░░░░░░░�
 
 ##### What I'm Listening to...
 
-![spotify-github-profile](https://jnem.me/listening-item?)
+![spotify-github-profile](https://jnem.me/listening-item?maxAge=2592000)
