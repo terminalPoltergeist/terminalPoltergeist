@@ -51,4 +51,4 @@ Bash                     9 mins              █░░░░░░░░░░�
 
 ##### What I'm Listening to...
 
-![spotify-github-profile](https://jnem.me/listening-item)
+![spotify-github-profile](https://jnem.me/listening-item?token=$(date%20+%s))
