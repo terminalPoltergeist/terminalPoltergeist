@@ -21,6 +21,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LANGUAGE: "True"
           SHOW_UPDATED_DATE: "True"
+          UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
