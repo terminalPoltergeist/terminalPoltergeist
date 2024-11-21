@@ -17,24 +17,11 @@ switch what_I'm_up_to {
         "politics, clutter, lack of communication, inactivity, Java"
 }
 
-var (
-    languages := {Go, Bash, Powershell, Typescript/JS, Python, C}
-
-    frameworks := {BubbleTea, Tailwind, Pmirin, Pester, Psake, Auger}
-
-    tools := {
-        env = {neoVim, Tmux, Proxmox, Docker, macOS, Ubuntu, RHEL 9, Nginx, DigitalOcean, Cloudflare},
-        devops = {Azure, git, GitHub Actions, Ansible},
-    }
-)
-
-func find_me() {
-    return {
-        website: "jnem.me",
-        instagram: "jacknemitz",
-        twitter: "@i_heart_vim",
-        email: "hi [at] jacknemitz [dot] com"
-    }
+type terminalPoltergeist struct {
+    www: "jnem.me"
+    twitter: "@i_heart_vim"
+    instagram: "jacknemitz"
+    email: "hi [at] jacknemitz [dot] com"
 }
 
 const pubKey = "1C49 F42B 6AAC 7CEE B18D  EAF6 0EEB C943 1694 A88E"
