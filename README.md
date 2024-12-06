@@ -28,7 +28,7 @@ const pubKey = "1C49 F42B 6AAC 7CEE B18D  EAF6 0EEB C943 1694 A88E"
 ```
 
 <!--START_SECTION:waka-->
-📊 **This week's stack..** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -40,7 +40,7 @@ HCL                      28 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/05/2024 12:22 UTC
+ Last Updated on 12/06/2024 00:56 UTC
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to...
