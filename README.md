@@ -28,19 +28,15 @@ const pubKey = "1C49 F42B 6AAC 7CEE B18D  EAF6 0EEB C943 1694 A88E"
 ```
 
 <!--START_SECTION:waka-->
-📊 **This week's stack..** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-YAML                     23 mins             █████████░░░░░░░░░░░░░░░░   34.67 % 
-Terraform                21 mins             ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Other                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-INI                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/28/2024 12:18 UTC
+ Last Updated on 12/29/2024 00:57 UTC
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to...
