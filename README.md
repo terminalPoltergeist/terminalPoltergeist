@@ -24,7 +24,7 @@ type terminalPoltergeist struct {
     email: "hi [at] jacknemitz [dot] com"
 }
 
-const pubKey = "1C49 F42B 6AAC 7CEE B18D  EAF6 0EEB C943 1694 A88E"
+const pubKey = "FBE5 6654 5B22 93FE CF7A  3FED FEBC 141E 4B2F CF62"
 ```
 
 <!--START_SECTION:waka-->
