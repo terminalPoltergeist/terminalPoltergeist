@@ -8,9 +8,9 @@ switch what_I'm_up_to {
     case building:
         "stuff with Go"
     case learning:
-        "Terraform, Azure Governance"
+        "gRPC, Protobufs, and PAAS architecture"
     case likes:
-        "automation, devops, technical writing, \
+        "premature optimization, technical writing, \
         alternative web-design, TUIs, sharing music with people, \
         coffee, well-documented apis"
     case dislikes:
