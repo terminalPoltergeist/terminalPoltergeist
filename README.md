@@ -6,7 +6,7 @@ switch what_I'm_up_to {
     case work:
         "Cloud Engineer at the University of Minnesota"
     case building:
-        "performant systems for interfacing with publicly available music databases"
+        "performant systems for interfacing with publicly available music datasets"
     case learning:
         "gRPC, Protobufs, and PAAS architecture"
     case likes:
