@@ -20,7 +20,6 @@ switch what_I'm_up_to {
 type terminalPoltergeist struct {
     www: "jnem.me"
     twitter: "@i_heart_vim"
-    instagram: "jacknemitz"
     email: "hi [at] jacknemitz [dot] com"
 }
 
