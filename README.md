@@ -27,8 +27,19 @@ const pubKey = "FBE5 6654 5B22 93FE CF7A  3FED FEBC 141E 4B2F CF62"
 ```
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/20/2025 01:02 UTC
+```text
+💬 Programming Languages: 
+YAML                     6 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Terraform                5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+PowerShell               4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Markdown                 3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Blade Template           2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+```
+
+
+ Last Updated on 04/20/2025 12:20 UTC
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to...
