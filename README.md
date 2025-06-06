@@ -23,7 +23,7 @@ switch terminalPoltergeist {
         "politics, clutter, lack of communication, inactivity, Java"
 }
 
-const pubKey = "FBE5 6654 5B22 93FE CF7A  3FED FEBC 141E 4B2F CF62"
+const pubKey = "A2E4 3AA1 77B7 E36A 05F2  3DF6 A25B 2683 4BB1 E43F"
 ```
 
 <!--START_SECTION:waka-->
