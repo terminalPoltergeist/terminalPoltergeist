@@ -5,14 +5,14 @@
 type terminalPoltergeist struct {
     www: "jnem.me"
     twitter: "@i_heart_vim"
-    email: "hi [at] jacknemitz [dot] com"
+    email: "jack [at] nemitz [dot] cloud"
 }
 
 switch terminalPoltergeist {
     case work:
         "Cloud Engineer at the University of Minnesota"
     case building:
-        "tools for interfacing with large music datasets"
+        "an online clearinghouse platform for health-plan fitness incentive programs"
     case learning:
         "gRPC, Laravel, and PAAS architecture"
     case likes:
